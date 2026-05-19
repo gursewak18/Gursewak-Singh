@@ -37,9 +37,7 @@ AI/ML Engineer | Founder of **Valotir Solutions** | Robotics & Space Enthusiast
 
 ### 🌐 Connect With Me  
 - 📧 Email: gursewak9677@gmail.com  
-- 🌍 LinkedIn: [linkedin.com/in/YOUR-LINK](#)  
-- 🐦 Twitter: [twitter.com/YOUR-HANDLE](#)  
-
+- 🌍 LinkedIn: www.linkedin.com/in/gursewak-singh-423178368
 ---
 
 ⚡ *“I don’t just write code. I build futures — in AI, defense, and space.”*  
